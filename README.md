@@ -17,7 +17,7 @@ Early detection helps:
 
 ## 🚀 Project Highlights
 
-🔹 Machine Learning Model (Logistic Regression / Naive Bayes)
+🔹 Machine Learning Model (Logistic Regression)
 🔹 FastAPI Backend (Real-time prediction API)
 🔹 Streamlit Dashboard (Modern UI)
 🔹 News Credibility Score (%)
@@ -48,7 +48,6 @@ The dataset contains:
 
 📊 Source: Kaggle Fake & Real News Dataset
 
-
 ---
 
 ## 🔍 Approach
@@ -68,7 +67,6 @@ The dataset contains:
 ## 📊 Model Performance
 
 ✅ Model Used: Logistic Regression
----
 🎯 Accuracy: ~90–95% (depends on dataset split)
 
 ---
@@ -80,7 +78,6 @@ The dataset contains:
 📊 Display credibility score (%)
 🟢🔴 Fake/Real classification with color indicator
 📉 Clean and modern dashboard UI
-
 
 ---
 
@@ -113,8 +110,6 @@ streamlit run dashboard/app.py
 
 ---
 
----
-
 ## 📥 Dataset
 
 Due to size limitations, dataset is not included in this repository.
@@ -141,5 +136,3 @@ Aspiring Data Science Intern
 💡 Skills: Python, SQL, EDA, Machine Learning, NLP
 
 ---
-
-
