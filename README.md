@@ -67,7 +67,8 @@ The dataset contains:
 
 ## 📊 Model Performance
 
-✅ Model Used: Logistic Regression 
+✅ Model Used: Logistic Regression
+---
 🎯 Accuracy: ~90–95% (depends on dataset split)
 
 ---
